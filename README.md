@@ -3,7 +3,7 @@
 
 
 
-## 版本
+## Version 版本
 
 2018.01.01 v3.0
 
@@ -17,13 +17,13 @@ ongoing...
 
 [中文版](http://ebookchain.org/ebookchain.pdf)
 
-## 作者
+## Author 作者
 
 Imfly
 Tailor
 Cob
 Mojie
 
-## 协议
+## Licence 协议
 
 MIT Licence
