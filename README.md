@@ -13,7 +13,7 @@ ongoing...
 
 2016.05.01 v2.0
 
-亿书 —— 去中心化的自出版平台
+DDN —— 去中心化的自出版平台
 
 [中文版](http://ebookchain.org/ebookchain.pdf)
 
