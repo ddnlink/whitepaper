@@ -5,6 +5,7 @@ DDN白皮书
 v0.0.3
 
 作者：朱志文 石后业 cob 韦坚
+
 2018年1月28日
 
 （本白皮书仍在持续修改完善中...）
@@ -307,7 +308,7 @@ DDN已与国内知名的线上培训机构达成战略合作，将对DDN链及�
 
 ## 参考资料
 
-* [DDN白皮书](http://ddn.link/static/download/ebookchain.pdf)
+* [亿书白皮书](http://www.ebookchain.org/ebookchain.pdf)
 * [Tim Berners-Lee](https://baike.baidu.com/item/蒂姆·伯纳斯·李/8868412?fr=aladdin)
 * [历史上第一个网站](http://info.cern.ch)
 * [The birth of the web](https://home.cern/topics/birth-web)
