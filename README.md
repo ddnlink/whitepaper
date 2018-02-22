@@ -9,11 +9,9 @@
 
 DDN, Data Delivery Network, the next generation internet
 
-ongoing...
-
 2016.05.01 v2.0
 
-DDN —— 去中心化的自出版平台
+DDN —— 区块链数据分发网络
 
 [中文版](http://ebookchain.org/ebookchain.pdf)
 
