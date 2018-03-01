@@ -387,12 +387,17 @@ DDN社区按功能划分为节点管理、技术开发、运营管理、市场�
 * DDN Twitter：@DDN_link；
 * DDN 中文电报群：@ddnlinkCN；
 * DDN 英文电报群：@ddnlink;
-* 邮箱：商务合作 operation@ddn.link；技术支持 support@ddn.link；人才招聘 hr@ddn.link
+* 邮箱：
+```
+商务合作 operation@ddn.link；
+技术支持 support@ddn.link；
+人才招聘 hr@ddn.link
+```
 
 ### 10.3 交易平台
 
-*（1）http://www.bit-z.com/
-*（2）DDN上线BTS内盘交易：https://bitshares.org/download/
+1. bit-z交易所：http://www.bit-z.com/
+2. BTS内盘交易：https://bitshares.org/download/
 
 ## 参考资料
 
