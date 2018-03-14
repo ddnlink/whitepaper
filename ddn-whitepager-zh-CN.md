@@ -40,6 +40,7 @@ DDN基金会
 
 1. bit-z交易所：http://www.bit-z.com/
 2. BTS内盘交易：https://bitshares.org/download/
+3. bbaex交易所：https://www.bbaex.com/
 
 ## 目录
 <!-- TOC -->
