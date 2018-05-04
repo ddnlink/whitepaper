@@ -9,6 +9,10 @@
 
 DDN, Data Delivery Network, the next generation internet
 
+- [DDN English Whitepaper](./ddn-whitepager.md)
+- [DDN白書日本語版](./DDN白書日本語版.md)
+- [DDN白皮书中文版](./DDN白皮书中文版.md)
+
 2016.05.01 v2.0
 
 DDN —— 区块链数据分发网络

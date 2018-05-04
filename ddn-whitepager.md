@@ -206,7 +206,7 @@ DDN will help enterprises build autonomous organization, the enterprise and empl
 
 DDN network is composed of blockchain node servers. The entire network is run in parallel by multiple blockchains，and each blockchain consists of more than 101 node servers, so the number of node servers in the network is much larger than N*101(N is the number of blockchains). These node servers come with load balancing capabilities. Users provide IP and URL for requesting data, each node will play the role of equalizer and, and finally, the URL content requested by the users will be returned to the users. The basic architecture is as follow:
 
- 
+![The basic architecture of the DDN](./images/ddn-en.png)
 
 ### 6.2 Key Technology
 **Data storage**: Blockchain technology, construct a strong secure P2P network by DPOS consensus algorithm; storage important content based on the P2P network, such as texts, images, audio and video, and use distributed protocols to allow users to browse the content.
@@ -279,7 +279,7 @@ The sidechain is an extension of a single chain and an application anchored on a
 
 To realize the exchange of multiple chains, DDN network will introduce the cross-chain technology to further extend the blockchain. The basic principles are shown in the figure:
  
-
+![The schematic diagram of cross-chain](./images/crosschain-en.png)
 #### 7.3.1 Named Router
 DDN consists of multiple DDN blockchains, named routers are effective for the entire network. Distributed networks, intelligent addressing, capitalization and so on are the basic components of DDN networks. Named routers can effectively connect these networks, simplify user operations, and improve indexing efficiency and retrieval speed. Named routers can effectively unify user assets, blockchains, data and resource URL, and achieve a perfect browsing experience based on node load balancing and intelligent addressing.
 
@@ -317,6 +317,8 @@ The goal of DDN is to build the next-generation value Internet from the bottom o
 
 DDN can provide solutions for massive application scenarios. At present, DDN has signed with Ebookchain, Limschain, Artwork Management System and other product partners. It has been comprehensively deployed in the entertainment industry, such as text, film and television, artwork, etc., and has been launched in the fields of Internet of Things, health care, finance, supply chain and so on. The large-scale ecosystem has begun to take shape.
  
+![DDN Ecosystem](./images/ecosystem-en.png)
+
 ### 9.2 Application Prospect
 
 #### 9.2.1 Intellectual Property Protection(IPR)
@@ -375,6 +377,7 @@ The global community of DDN will perform the ideals of three “de-s” by looki
 
 Divided by functions, the DDN global community such four sectors as node management, technical development, operation management and marketing. As is shown in the diagram:
 
+![社区组织架构](./images/community-structure-en.png)
 ## References
 
 * [The Ebookchain whitepaper](http://www.ebookchain.org/ebookchain.pdf)
