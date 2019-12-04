@@ -21,10 +21,12 @@ DDN —— 区块链数据分发网络
 
 ## Author 作者
 
-Imfly
-Tailor
-Cob
-Mojie
+- Imfly
+- EvanLai
+- Tailor
+- Cob
+- Mojie
+- Wxm
 
 ## Licence 协议
 
