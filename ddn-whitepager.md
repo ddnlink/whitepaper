@@ -34,12 +34,6 @@ You can visit the official website of DDN to learn more information about whitep
     * Technical Support:  support@ddn.link；
     * Recruitment:  hr@ddn.link
 
-- **Listed Exchanges**
-    * bit-z：http://www.bit-z.com/
-    * Bitshares exchange：https://bitshares.org/download/
-    * bbaex：https://www.bbaex.com/
-    * fubt:  https://www.fubt.top/
-
 ## Table of Contents
 
 <!-- TOC -->
