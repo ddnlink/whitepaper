@@ -33,12 +33,6 @@ DDNネット白書の最新バージョン、ロードマップ、チーム、�
     *テクニカルサポートsupport@ddn.link;
     *人材募集hr@ddn.link
 
-**取引プラットフォーム**
-    * bit-z取引所：http://www.bit-z.com/
-    * BTS内部取引：https://bitshares.org/download/
-    * bbaex取引所：https://www.bbaex.com/
-    * fubt取引所:  https://www.fubt.top/
-
 ## 目次
 
 <!-- TOC -->
