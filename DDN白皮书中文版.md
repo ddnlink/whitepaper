@@ -15,30 +15,7 @@ DDN基金会
 
 关于DDN网络白皮书的最新版本、路线图、团队、基金会、合作伙伴、最新项目等信息，请随时访问DDN网络官方网站。
 
-**官方链接**
-
-* DDN官网：http://ddn.link
-* DDN核心链主网：http://mainnet.ddn.link
-* DDN核心链测试网：http://testnet.ddn.link
-* DDN源码库：https://github.com/ddnlink
-* DDN白皮书：https://github.com/ddnlink/whitepaper
-
-**社交平台**
-
-* DDN技术社区：http://ddn.link/community
-* DDN 中文社区QQ群：669624212；
-* DDN 微信ID：@DDN_link；
-* DDN 微博：@DDN_link；
-* DDN Twitter：@DDN_link；
-* DDN 中文电报群：@ddnlinkCN；
-* DDN 英文电报群：@ddnlink;
-* 邮箱：
-    - 商务合作 operation@ddn.link；
-    - 技术支持 support@ddn.link；
-    - 人才招聘 hr@ddn.link
-
 ## 目录
-<!-- TOC -->
 
 - [内容说明](#内容说明)
 - [目录](#目录)
@@ -108,8 +85,6 @@ DDN基金会
     - [11.3 第三阶段](#113-第三阶段)
     - [11.4 社区自治](#114-社区自治)
 - [参考资料](#参考资料)
-
-<!-- /TOC -->
 
 ## 1. 概要
 
